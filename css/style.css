@@ -1,0 +1,81 @@
+*{padding:0; margin: 0 }
+body{
+    background-color: skyblue;
+}
+#websiteTitle{
+    padding-left: 7cm;
+}
+.navbar{
+    background-color: gray;
+    color: aliceblue;
+    
+}
+.profile-container{
+    background-color: aqua;
+    height: 600px;
+    
+    
+}
+.heading-text{
+    
+    text-align: center;
+    padding-top:10px; 
+    
+    
+}
+.heading{
+    margin-top: -20px; 
+    height: 90px;
+    width:99% ;
+    background-color: aquamarine;
+}
+.profile-img-container{
+    width: 104%;
+    background-color: black;
+    height:130px ;
+    background-color:rgb(213, 241, 242); 
+}
+.profile-img{
+    margin-left:32%;
+    padding: 5px;
+    width: 140px;
+    height: 123px;
+}
+.profileInfo{
+    margin-top: 20px; 
+}
+.trueName, .trueLastName{
+    margin-left: 2cm;
+}
+.trueAge{
+   margin-left:  3.4cm
+}
+.trueNumber, .trueEmail{
+    margin-left: 1.5cm;
+}
+
+.line{
+    max-width: 400px;
+}
+.match-recap{
+    height:600px ;
+    background-color: blue;
+
+}
+h2{
+    text-align: center;
+    color: antiquewhite;
+}
+.current-matches{
+    overflow-y: scroll;
+    height: 200px;
+    background-color: tomato;
+    width: 98%;
+    margin-top: 1cm;
+}
+.play-match{
+    float:right;
+    margin-top: 1cm;
+    width: 100px;
+
+}
